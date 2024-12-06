@@ -1,0 +1,9 @@
+.parent{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+    
+    border: 2Px black solid;
+}
